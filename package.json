@@ -1,0 +1,40 @@
+{
+  "name": "msw-usefaketimers",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "@jest/types": "^27.2.5",
+    "@testing-library/dom": "^8.10.1",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/svelte": "^3.0.3",
+    "@tsconfig/svelte": "^2.0.1",
+    "@types/jest": "^27.0.2",
+    "@types/node": "^16.11.6",
+    "@types/testing-library__jest-dom": "^5.14.1",
+    "@typescript-eslint/eslint-plugin": "^4.33.0",
+    "@typescript-eslint/parser": "^4.33.0",
+    "eslint": "^7.32.0",
+    "eslint-import-resolver-typescript": "^2.5.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-svelte3": "^3.2.1",
+    "eslint-plugin-testing-library": "^4.12.4",
+    "jest": "^27.3.1",
+    "msw": "^0.35.0",
+    "svelte": "^3.44.0",
+    "svelte-check": "^2.2.7",
+    "svelte-jester": "^2.1.5",
+    "svelte-preprocess": "^4.9.8",
+    "ts-jest": "^27.0.7",
+    "ts-node": "^10.4.0",
+    "tslib": "^2.3.1",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
